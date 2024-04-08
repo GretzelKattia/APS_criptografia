@@ -21,6 +21,12 @@ Nosso programa possui as seguintes funcionalidades:
 
 - **Sair:** Permite ao usuário sair do programa.
 
+## Apresentação
+
+Utilizei o arquivo Jupyter Notebook para compartilhar a interação com a linguagem Python.
+
+https://github.com/GretzelKattia/APS_criptografia/assets/146984390/1c171bc2-3a98-46de-b608-453439511a59
+
 ## Documentação
 
 A documentação completa do projeto está disponível na pasta [Documentação](https://github.com/GretzelKattia/APS_criptografia/blob/main/Documentacao_APS/Trabalho_academico-1sem.pdf). 
